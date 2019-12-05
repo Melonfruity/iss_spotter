@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Melonfruity/iss_spotter#readme",
   "dependencies": {
     "eslint": "^6.7.2",
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8"
   }
 }
